@@ -1,0 +1,7 @@
+pip install googletrans==4.0.0-rc1
+pip install numpy
+pip install pandas
+pip install nltk
+pip install matplotlib
+pip install sklearn
+pip install bs4
